@@ -39,8 +39,8 @@ This repository contains all the tasks I completed as part of the **CodSoft Java
 
 ---
 
-## 🔗 GitHub Repo Link
-You're viewing it! Share this repository in your task submission form.
+## 🔗 GitHub Repo Link  
+🔗 [Click here to view the repository](https://github.com/sanmathimn/CODSOFT)
 
 ---
 
